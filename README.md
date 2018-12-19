@@ -13,7 +13,8 @@ REST API to manage PRODUCTS and ORDERS, using public VAT API to get country tax 
 	A request is send with username and password
   Retrieving all PRODUCTS is allowed for anonymous users
   Relevant status code is send if token is not provided or is invalid/expiredс
-
+## Technologies
+Node.js, MongoDB(mLab), Express.js,JWT based authentication
 ## Instalation
 
 ### Pull the repository
